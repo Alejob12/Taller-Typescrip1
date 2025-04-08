@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    background-color: #ffffff;
+}
+
+.tabla-contenedor {
+    margin-bottom: 2rem;
+}
+
+.titulo-principal {
+    color: #343a40;
+}
+
+/* Estilos adicionales para mejorar la apariencia de la tabla */
+.table a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.table a:hover {
+    text-decoration: underline;
+}
